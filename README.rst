@@ -7,6 +7,18 @@ complete and 100% Open Source.
 
 This repository contains the source for all the packages of Tryton.
 
+Differences with the Original Repository
+========================================
+
+This fork includes the following changes compared to the official Tryton repository:
+
+- Feature 1: [Brief description of the change]
+- Feature 2: [Brief description of another change]
+- Bugfix: [Description of any bugfix]
+- [Other differences]
+
+For a full list of changes, refer to the commit history or the `CHANGELOG.md` file.
+
 Setup
 =====
 
